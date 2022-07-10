@@ -1,0 +1,7 @@
+$ git commit -m 'FileName.csv'
+[master (root-commit) 3f089ff] FileName.csv
+ 1 file changed, 3 insertions(+)
+ create mode 100644 Downloads/Folder_of_file/FileName.csv
+
+
+$ git push origin master
